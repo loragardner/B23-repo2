@@ -14,3 +14,6 @@ Polo 2000cal 15.99
 soups
 veggies
 meats
+
+steak 600cal 13.99
+sandwich 400cal 4.99
