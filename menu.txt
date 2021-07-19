@@ -17,3 +17,5 @@ meats
 
 steak 600cal 13.99
 sandwich 400cal 4.99
+
+pizza 3000cal 9.99
